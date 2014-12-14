@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## 
 ## set the value of the matrix
 ## get the value of the matrix
@@ -24,7 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## 
-## Compute the inverse of matrix. It checks if the value   
+## Compute the inverse of matrix. It checks if the inverse value   
 ## is cached and if not, calculate the inverse and cache it.
 ## 
 cacheSolve <- function(x, ...) {
